@@ -1,8 +1,8 @@
 <div align "center">
   <img src="https://github-stats-extended.vercel.app/api?username=majarovtar&show_icons=true&count_private=true&include_all_commits=true&hide_border=true" alt="GitHub score" />
-</div>
 
-<div align "center">
+
+
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=majarovtar&layout=compact" alt="GitHub analytics" />
 </div>
 
